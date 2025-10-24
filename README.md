@@ -26,7 +26,7 @@ I'm a **creative frontend developer** with a unique background in **content writ
 - **Community Contributor**: Building tools for learners and small businesses
 - **Content-Driven Developer**: Combining my editorial skills with code to create engaging web experiences
 
-### 🎯 Current Focus
+
 
 
 
