@@ -28,15 +28,8 @@ I'm a **creative frontend developer** with a unique background in **content writ
 
 ### 🎯 Current Focus
 
-```javascript
-const faithJourney = {
-  learning: ["HTML5 & CSS3", "JavaScript", "Responsive Design", "React"],
-  building: ["Portfolio Website", "Practice Projects", "ALX Tasks"],
-  skills: ["Content Writing", "Technical Editing", "UI/UX Principles"],
-  goal: "Merge storytelling with web development",
-  openTo: ["Frontend Opportunities", "Open Source", "Collaborations"]
-};
-```
+
+
 
 ---
 
